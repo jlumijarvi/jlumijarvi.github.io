@@ -61,4 +61,4 @@ Jekyll started giving `tag was never closed` errors. The error only occured if t
 excerpt_separator: ""
 ```
 
-After that I was enable to write posts and deploy the site automatically in Github Pages just by creating a new repository named `<my_username>.github.io` and pushing the project into that repo.
+After that I was able to write posts without issues and deploy the site automatically in Github Pages just by creating a new repository named `<my_username>.github.io` and pushing the project into that repo.
