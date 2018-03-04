@@ -20,7 +20,7 @@ sudo apt install ruby-full
 
 ## Create a Jekyll project
 
-After installing you should be able install the required gems and create and test a Jekyll project:
+After installing Ruby you should be able install the required gems and create and test a Jekyll project:
 
 ```
 gem install jekyll bundler
