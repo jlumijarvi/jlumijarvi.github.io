@@ -45,7 +45,7 @@ The installation took a lot of time but after that I was able to install github-
 
 ## Syntax highlighting
 
-When fiddling with the markup I soon noticed another issue. When trying to write a Javascript snippet like
+When fiddling with the markup I soon noticed another issue. When trying to write a Javascript snippet with syntax highlighting like
 
 {% highlight javascript %}
 
