@@ -13,4 +13,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+disqus:
+  shortname: jannelumijrvi
+
 excerpt_separator: ""
