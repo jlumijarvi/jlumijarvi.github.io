@@ -45,7 +45,7 @@ The installation took a lot of time but after that I was able to install github-
 
 ## Syntax highlighting
 
-When fiddling with the markup I soon noticed another issue. When trying to write a Javascript snippet with syntax highlighting like
+When fiddling with the markdown I soon noticed another issue. When trying to write a Javascript snippet with syntax highlighting like
 
 {% highlight javascript %}
 
@@ -55,7 +55,7 @@ function hello() {
 
 {% endhighlight %}
 
-Jekyll started giving `tag was never closed` errors. The error only occured if the first line in the post was inside a Jekyll block. A workaround was found  [here](http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed/) and adding the following line in `_config.yml` fixed the issue:
+Jekyll started giving `tag was never closed` errors. The error only occured if the first line in the post was inside a Jekyll block. A workaround was found [here](http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed/) and adding the following line in `_config.yml` fixed the issue:
 
 ```
 excerpt_separator: ""
