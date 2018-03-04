@@ -14,6 +14,6 @@ plugins:
   - jekyll-feed
 
 disqus:
-  shortname: jannelumijrvi
+  shortname: jlumijarvi-github-io
 
 excerpt_separator: ""
