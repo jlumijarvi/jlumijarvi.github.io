@@ -5,13 +5,14 @@ description: >-
 baseurl: ""
 url: "https://jlumijarvi.github.io"
 github_username: jlumijarvi
-linkedin: jannelumijarvi
+linkedin_username: jannelumijarvi
 google_analytics: UA-115091953-1
 
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 disqus:
   shortname: jlumijarvi-github-io
