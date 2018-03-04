@@ -5,6 +5,7 @@ description: >-
 baseurl: ""
 url: "https://jlumijarvi.github.io"
 github_username:  jlumijarvi
+linkedin_username: jannelumijarvi
 
 markdown: kramdown
 theme: minima
