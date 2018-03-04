@@ -20,7 +20,9 @@ layout: default
   </div>
 
   {% if site.disqus.shortname %}
+    <section style="padding-top: 10px">
     {% include disqus_comments.html %}
+    </section>
   {% endif %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
